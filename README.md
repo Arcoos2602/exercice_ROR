@@ -6,6 +6,7 @@ ex02 : a simple user CRUD using ruby on rails
 
 To start it :
 do the migration : rails db:migrate
-and start the server : rails s
+start the server : rails s
+go on localhost:3000
 
 

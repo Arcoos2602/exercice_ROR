@@ -9,6 +9,7 @@ def encoding(plain_message)
     .join()
 end
 
+puts encoding("aaaabaaaaaoopp")
 puts encoding("“aaaabcccaaa")
 puts encoding("azertyuiop")
 puts encoding("aaaabccdzqdfqzklggklsgesgesgesgeeccaaa")
