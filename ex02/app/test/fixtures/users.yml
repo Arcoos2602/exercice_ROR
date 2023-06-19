@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  email: MyString
+  created_at: 2023-06-19 12:45:00
+  updated_at: MyString
+  datetime: MyString
+  first_name: MyString
+  last_name: MyString
+  string: MyString
+  phone: MyString
+
+two:
+  id: 
+  email: MyString
+  created_at: 2023-06-19 12:45:00
+  updated_at: MyString
+  datetime: MyString
+  first_name: MyString
+  last_name: MyString
+  string: MyString
+  phone: MyString
